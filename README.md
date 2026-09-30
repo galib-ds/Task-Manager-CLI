@@ -2,6 +2,9 @@
 
 A simple command-line application for managing tasks efficiently from the terminal.
 
+<img width="306" height="230" alt="Screenshot From 2026-09-30 11-53-15" src="https://github.com/user-attachments/assets/def31885-3378-4bfd-affe-5ead9330be02" />
+
+
 ## Features
 
 - Add a new task
@@ -9,14 +12,6 @@ A simple command-line application for managing tasks efficiently from the termin
 - Mark a task as complete
 - Delete a task
 - Exit the application
-
-## Project menu
-
-1. Add task
-2. View tasks
-3. Complete task
-4. Delete task
-5. Exit
 
 ## Prerequisites
 
