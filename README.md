@@ -54,6 +54,8 @@ python -m venv .venv
 
 ### 3. Install dependencies
 
+#### Linux / macOS / Windows
+
 ```bash
 python -m pip install --upgrade pip
 ```
@@ -64,11 +66,13 @@ pip install -r requirements.txt
 
 ## Run the application
 
+#### Linux / macOS
+
 ```bash
 python3 -m app.main
 ```
 
-If you are using Windows, you can also run:
+#### Windows
 
 ```powershell
 python -m app.main
